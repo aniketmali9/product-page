@@ -1,0 +1,46 @@
+
+.body{
+    background-color: aqua; /* background body color */
+}
+h1{
+    text-align: center; /* Headind 1 is alined to center */
+    margin-bottom: 50px;
+}
+/* Box layout is created for product page */
+.box{
+    height: 550px;
+    width: 400px;
+    background-color: white;
+    margin: auto;
+    border-radius: 30px;
+}
+h2{
+    margin-bottom: 0px;
+    margin-top: 30px;
+    padding-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+} 
+.img{
+    margin: 20px 50px 0 50px;
+    border: solid 1px black;
+}
+p{
+    text-align: center;
+}
+.btn{
+    text-align: center;
+}
+button{
+    padding: 15px 25px;
+    border: none;
+    background-color: orange;
+    font-weight: bold;
+    color: white;
+    border-radius: 30px;
+}
+.price{
+    font-size: larger;
+    font-weight: bold;
+    color: brown;
+}
